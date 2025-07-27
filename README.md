@@ -15,7 +15,7 @@ A simple command-line quiz game written in Python to test your knowledge of comp
 
 ## File
 
-- `quiz.py`: Main Python file containing the game logic
+- `quiz_game.py`: Main Python file containing the game logic
 
 ## Features
 
